@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "776876071962",
+    "firebase_url": "https://dialadriverclone.firebaseio.com",
+    "project_id": "dialadriverclone",
+    "storage_bucket": "dialadriverclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776876071962:android:d18f9fc23c52e11a",
+        "android_client_info": {
+          "package_name": "com.solutions.nearfield.dialadriverclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776876071962-2rqkieafqgasvemqg245792qp8f0469m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solutions.nearfield.dialadriverclone",
+            "certificate_hash": "1873b84131ed9b00398ac17ea89109f6d5866a32"
+          }
+        },
+        {
+          "client_id": "776876071962-4n9cj5oq6avmtooqv4jmg6qni0gic8le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqLVWmom3LrbZCkCw6uSob-Y4Vy9WySNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776876071962-4n9cj5oq6avmtooqv4jmg6qni0gic8le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
