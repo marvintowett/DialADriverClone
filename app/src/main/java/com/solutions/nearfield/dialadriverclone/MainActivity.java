@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 return;
             }
         });
+        // Try to pull documents from github
 
         mCustomer.setOnClickListener(new View.OnClickListener() {
             @Override
